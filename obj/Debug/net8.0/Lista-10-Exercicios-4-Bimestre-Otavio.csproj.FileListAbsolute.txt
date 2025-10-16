@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\Lista-10-Exercicios-4-Bimestre-Otavio\Lista-10-Exercicios-4-Bimestre-Otavio\bin\Debug\net8.0\Lista-10-Exercicios-4-Bimestre-Otavio.exe
+C:\Users\Aluno\Desktop\Lista-10-Exercicios-4-Bimestre-Otavio\Lista-10-Exercicios-4-Bimestre-Otavio\bin\Debug\net8.0\Lista-10-Exercicios-4-Bimestre-Otavio.deps.json
+C:\Users\Aluno\Desktop\Lista-10-Exercicios-4-Bimestre-Otavio\Lista-10-Exercicios-4-Bimestre-Otavio\bin\Debug\net8.0\Lista-10-Exercicios-4-Bimestre-Otavio.runtimeconfig.json
+C:\Users\Aluno\Desktop\Lista-10-Exercicios-4-Bimestre-Otavio\Lista-10-Exercicios-4-Bimestre-Otavio\bin\Debug\net8.0\Lista-10-Exercicios-4-Bimestre-Otavio.dll
+C:\Users\Aluno\Desktop\Lista-10-Exercicios-4-Bimestre-Otavio\Lista-10-Exercicios-4-Bimestre-Otavio\bin\Debug\net8.0\Lista-10-Exercicios-4-Bimestre-Otavio.pdb
+C:\Users\Aluno\Desktop\Lista-10-Exercicios-4-Bimestre-Otavio\Lista-10-Exercicios-4-Bimestre-Otavio\obj\Debug\net8.0\Lista-10-Exercicios-4-Bimestre-Otavio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Lista-10-Exercicios-4-Bimestre-Otavio\Lista-10-Exercicios-4-Bimestre-Otavio\obj\Debug\net8.0\Lista-10-Exercicios-4-Bimestre-Otavio.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Lista-10-Exercicios-4-Bimestre-Otavio\Lista-10-Exercicios-4-Bimestre-Otavio\obj\Debug\net8.0\Lista-10-Exercicios-4-Bimestre-Otavio.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Lista-10-Exercicios-4-Bimestre-Otavio\Lista-10-Exercicios-4-Bimestre-Otavio\obj\Debug\net8.0\Lista-10-Exercicios-4-Bimestre-Otavio.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Lista-10-Exercicios-4-Bimestre-Otavio\Lista-10-Exercicios-4-Bimestre-Otavio\obj\Debug\net8.0\Lista-10-Exercicios-4-Bimestre-Otavio.dll
+C:\Users\Aluno\Desktop\Lista-10-Exercicios-4-Bimestre-Otavio\Lista-10-Exercicios-4-Bimestre-Otavio\obj\Debug\net8.0\refint\Lista-10-Exercicios-4-Bimestre-Otavio.dll
+C:\Users\Aluno\Desktop\Lista-10-Exercicios-4-Bimestre-Otavio\Lista-10-Exercicios-4-Bimestre-Otavio\obj\Debug\net8.0\Lista-10-Exercicios-4-Bimestre-Otavio.pdb
+C:\Users\Aluno\Desktop\Lista-10-Exercicios-4-Bimestre-Otavio\Lista-10-Exercicios-4-Bimestre-Otavio\obj\Debug\net8.0\Lista-10-Exercicios-4-Bimestre-Otavio.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Lista-10-Exercicios-4-Bimestre-Otavio\Lista-10-Exercicios-4-Bimestre-Otavio\obj\Debug\net8.0\ref\Lista-10-Exercicios-4-Bimestre-Otavio.dll
